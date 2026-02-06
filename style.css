@@ -293,6 +293,10 @@ header p {
     color: var(--accent);
 }
 
+header img{
+    width: 350px;
+}
+
 nav {
     display: flex;
     gap: 18px;
@@ -1414,3 +1418,4 @@ footer {
         min-height: 120px;
     }
 }
+
